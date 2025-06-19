@@ -80,7 +80,7 @@ const Contact: React.FC = () => {
     <div className="max-w-3xl bg-white rounded-2xl shadow-lg p-8 text-center mt-20 w-full mx-4">
       <h2 className="text-3xl font-bold text-blue-700 mb-6">Kontakta oss</h2>
       <form 
-        action="https://formsubmit.co/e4348f5f0bfaa1772713430fca5bc4da" 
+        action="https://formsubmit.co/6b95acc144e7b40e3729ebc0fdbcaf12" 
         method="POST"
         className="flex flex-col gap-4 text-left"
       >
