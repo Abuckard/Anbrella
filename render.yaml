@@ -1,0 +1,11 @@
+services:
+  - type: static
+    name: anbrella
+    repo: https://github.com/Abuckard/Anbrella
+    branch: main
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+    installCommand: npm install
