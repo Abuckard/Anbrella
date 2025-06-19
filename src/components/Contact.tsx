@@ -38,7 +38,7 @@ const Contact: React.FC = () => {
         <p className="text-green-600 text-xl">Tack för ditt meddelande! Vi hör av oss snart.</p>
       ) : (
         <form 
-          action="https://formsubmit.co/alexander@buckard.com" 
+          action="https://formsubmit.co/alexander.buckard@gmail.com" 
           method="POST" 
           onSubmit={handleSubmit}
           className="flex flex-col gap-4 text-left"
