@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Home: React.FC = () => (
-  <div className="w-full py-24 text-white text-center shadow-lg">
+  <div className="w-full py-24 text-white text-center ">
     <h1 className="text-5xl font-extrabold mb-6">Anbrella Consulting</h1>
     <p className="text-xl mb-10">Professionell projektledning & webbutveckling</p>
     <div className="flex justify-center gap-6">
